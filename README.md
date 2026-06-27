@@ -49,4 +49,4 @@ Founder of **Digital Dentistry Pioneers (DDP)** — bridging clinical practice w
 ### 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-0A1F3D?style=flat-square&logo=gmail&logoColor=14B8A6)](mailto:drshuhaibumisfarkv@gmail.com)
-[![Website](https://img.shields.io/badge/pristinealigner.com-0A1F3D?style=flat-square&logo=googlechrome&logoColor=14B8A6)](https://pristinealigner.com)
+[![Website](https://img.shields.io/badge/synergystrat.com-0A1F3D?style=flat-square&logo=googlechrome&logoColor=14B8A6)](https://synergystrat.com)
