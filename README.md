@@ -39,11 +39,11 @@ Founder of **Digital Dentistry Pioneers (DDP)** — bridging clinical practice w
 
 | Project | What it does |
 |---|---|
+| **[Bolton 3D](https://github.com/drshuhaib/bolton-3d)** &nbsp;[![Live](https://img.shields.io/badge/Live_demo-14B8A6?style=flat-square)](https://drshuhaib.github.io/bolton-3d/) | Click-to-measure Bolton tooth-size analysis on 3D STL models, in the browser |
 | **Aligner Blockout Tool** | Browser STL batch processor for clear-aligner undercut blockout |
 | **SlicerOrthognathicGuide** | 3D Slicer module generating patient-specific surgical cutting guides |
 | **Cephalometric Engine** | 28-landmark analysis across four classic frameworks |
 | **Parametric Appliance Kit** | Python/trimesh generators for orthodontic devices |
-
 ---
 
 ### 📫 Reach me
