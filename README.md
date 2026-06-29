@@ -46,6 +46,7 @@ General dentist building open-source tools for digital dentistry — bridging cl
 
 ### 📫 Reach me
 
+- **Email:** drshuhaibumisfarkv@gmail.com
 - **Portfolio & consulting:** [synergystrat.com](https://synergystrat.com/)
 - **LinkedIn:** [in/dr-shuhaibu-misfar-k](https://linkedin.com/in/dr-shuhaibu-misfar-k)
 - **Instagram:** [@digital_dentistry_pioneers](https://www.instagram.com/digital_dentistry_pioneers?igsh=cWRpbG50b2E4cTgz)
