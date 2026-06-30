@@ -23,6 +23,7 @@ General dentist building open-source tools for digital dentistry — bridging cl
 ![React](https://img.shields.io/badge/React-0A1F3D?style=for-the-badge&logo=react&logoColor=14B8A6)
 ![Three.js](https://img.shields.io/badge/Three.js-0A1F3D?style=for-the-badge&logo=threedotjs&logoColor=14B8A6)
 ![Electron](https://img.shields.io/badge/Electron-0A1F3D?style=for-the-badge&logo=electron&logoColor=14B8A6)
+![Streamlit](https://img.shields.io/badge/Streamlit-0A1F3D?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 ![3D Slicer](https://img.shields.io/badge/3D_Slicer-0A1F3D?style=for-the-badge&logoColor=14B8A6)
 
 ### 🔬 Focus areas
@@ -38,7 +39,7 @@ General dentist building open-source tools for digital dentistry — bridging cl
 | Project | What it does |
 |---------|--------------|
 | **[Bolton 3D](https://github.com/drshuhaib/bolton-3d)** &nbsp;[![Live](https://img.shields.io/badge/Live_demo-14B8A6?style=flat-square)](https://drshuhaib.github.io/bolton-3d/) | Click-to-measure Bolton tooth-size analysis on 3D STL models, entirely in the browser |
-| **[digital-dentistry-vision-agent](https://github.com/drshuhaib/digital-dentistry-vision-agent)** | Multimodal AI assistant for analysing clinical dental imagery *(in development)* |
+| **[digital-dentistry-vision-agent](https://github.com/drshuhaib/digital-dentistry-vision-agent)** &nbsp;[![Live](https://img.shields.io/badge/Live_demo-14B8A6?style=flat-square)](https://digital-dentistry-vision-agent-wsuksefhhejwlr2kaggacb.streamlit.app/) | Cloud-hosted Streamlit app using NVIDIA NIM multimodal AI for automated clinical imagery analysis across dynamic diagnostic frameworks |
 | **Aligner Blockout Tool** | Browser-based STL batch processor for clear-aligner undercut blockout |
 | **SlicerOrthognathicGuide** | 3D Slicer module generating patient-specific surgical cutting guides |
 | **Cephalometric Engine** | 28-landmark analysis across four classic orthodontic frameworks |
