@@ -2,7 +2,9 @@
 
 **Head of R&D at Pristine Clear Aligner · Lead at SynergyStrat Consulting · Founder of Digital Dentistry Pioneers (DDP)**
 
-General dentist building open-source tools for digital dentistry — bridging clinical practice with software development, CAD/CAM, and AI-driven medical-device engineering.
+General dentist building open-source tools for digital dentistry, bridging clinical practice with software development, CAD/CAM, and AI-driven medical-device engineering.
+
+Combining hands-on clinical practice with software, CAD/CAM, and applied AI, I build the tools I use in my own workflow, from digital-orthodontic and surgical-guide engineering to browser-based clinical calculators.
 
 ![Location](https://img.shields.io/badge/Kerala,_India-0A1F3D?style=flat-square&logo=googlemaps&logoColor=14B8A6)
 ![Field](https://img.shields.io/badge/Digital_Orthodontics-14B8A6?style=flat-square)
@@ -11,7 +13,7 @@ General dentist building open-source tools for digital dentistry — bridging cl
 ### 🦷 What I build
 
 - **Clear aligner tooling** — Browser-based STL batch processing, undercut blockout, and stage-planning biomechanics
-- **Clinical AI tools** — Multimodal vision models for clinical imagery analysis and diagnostic support
+- **Clinical AI tools** — Multimodal vision models for clinical image review and diagnostic support
 - **Surgical guide generation** — Patient-specific orthognathic cutting guides as 3D Slicer modules
 - **Cephalometric engines** — 28-landmark analysis frameworks (Steiner, Ricketts, McNamara, Tweed)
 - **Parametric appliance design** — Python/trimesh STL generation for orthodontic devices and MARPE
@@ -39,7 +41,7 @@ General dentist building open-source tools for digital dentistry — bridging cl
 | Project | What it does |
 |---------|--------------|
 | **[Bolton 3D](https://github.com/drshuhaib/bolton-3d)** &nbsp;[![Live](https://img.shields.io/badge/Live_demo-14B8A6?style=flat-square)](https://drshuhaib.github.io/bolton-3d/) | Click-to-measure Bolton tooth-size analysis on 3D STL models, entirely in the browser |
-| **[digital-dentistry-vision-agent](https://github.com/drshuhaib/digital-dentistry-vision-agent)** &nbsp;[![Live](https://img.shields.io/badge/Live_demo-14B8A6?style=flat-square)](https://digital-dentistry-vision-agent-wsuksefhhejwlr2kaggacb.streamlit.app/) | Cloud-hosted Streamlit app using NVIDIA NIM multimodal AI for automated clinical imagery analysis across dynamic diagnostic frameworks |
+| **[digital-dentistry-vision-agent](https://github.com/drshuhaib/digital-dentistry-vision-agent)** &nbsp;[![Live](https://img.shields.io/badge/Live_demo-14B8A6?style=flat-square)](https://digital-dentistry-vision-agent-wsuksefhhejwlr2kaggacb.streamlit.app/) | Cloud-hosted Streamlit app using NVIDIA NIM multimodal AI for clinical image review and decision support |
 | **Aligner Blockout Tool** | Browser-based STL batch processor for clear-aligner undercut blockout |
 | **SlicerOrthognathicGuide** | 3D Slicer module generating patient-specific surgical cutting guides |
 | **Cephalometric Engine** | 28-landmark analysis across four classic orthodontic frameworks |
